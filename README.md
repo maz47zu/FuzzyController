@@ -1,4 +1,4 @@
 # FuzzyController
 
-Fuzzy logic controller which could be implemented as an library in the temperature or speed control process.
-Could be easily use on Raspberry Pi platform.
+Fuzzy logic controller is designed to control the dynamic processes (for example heating).
+Can be easily use on Raspberry Pi platform, as a Python library.
